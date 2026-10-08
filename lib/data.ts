@@ -450,7 +450,7 @@ export const PROJECTS: IProject[] = [
 
 export const MY_EXPERIENCE = [
     {
-        title: 'Full Stack Developer',
+        title: 'Software Engineer',
         company: 'Ionio LLC',
         duration: 'August 2023 - July 2024',
     },
